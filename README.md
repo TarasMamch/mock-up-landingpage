@@ -11,3 +11,5 @@ In this page I've made several changed that include:
 
 ![image](assets/images/Screenshot-1.png)
 ![image](assets/images/Screenshot-2.png)
+
+https://tarasmamch.github.io/mock-up-landingpage/
